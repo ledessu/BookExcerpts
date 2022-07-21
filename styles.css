@@ -1,7 +1,7 @@
 #excerpt {
     background-color:rgb(7, 57, 59);
     margin:auto;
-    max-width: 800px;
+    max-width: 1000px;
     padding: 5px;
     color: white;
 }
@@ -50,7 +50,7 @@ p{
 article{
     display:inline-block;
     border: 1px solid white;
-    margin:10px;
+    margin:20px;
 }
 img{
     width:200px;
