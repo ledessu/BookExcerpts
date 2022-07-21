@@ -1,0 +1,72 @@
+#excerpt {
+    background-color:rgb(7, 57, 59);
+    margin:auto;
+    max-width: 800px;
+    padding: 5px;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+#desc{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    font-family: serif;
+    font-weight: bold;
+    color: rgb(255, 179, 80);
+    margin: 0px;
+}
+h4{
+    font-size: 20px;
+    text-align: right;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    
+}
+/* #note h3,#note h4, #note p{
+    
+    display: inline-block;
+} */
+.book {
+   padding: 10px;
+    /* border: 1px solid white; */
+}
+#cover {
+    width: 40%;
+    float:left;
+    /* padding:10px; */
+}
+#note{
+    margin-top: 10%;    
+    width: 60%; 
+    float:right;
+    
+}
+article{
+    display:inline-block;
+    border: 1px solid white;
+    margin:10px;
+}
+img{
+    width:200px;
+}
+hr{
+    height: 2px;
+    background-color: white;
+}
+body
+{
+    
+}
+mark{
+    background-color: pink;
+    
+}
+mark.blue{
+    background-color: rgb(0, 208, 255);
+}
